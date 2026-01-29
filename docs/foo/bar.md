@@ -1,1 +1,3 @@
-## foo/Bar
+## /foo
+
+[/foo/bar](./bar)
